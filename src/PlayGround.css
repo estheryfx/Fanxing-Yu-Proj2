@@ -1,0 +1,10 @@
+#two,
+#title {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+#reset {
+  margin-top: 50px;
+  text-align: center;
+}
