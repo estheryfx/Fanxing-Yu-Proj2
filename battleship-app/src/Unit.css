@@ -1,0 +1,14 @@
+.white,
+.black {
+  color: black;
+  height: 50px;
+  width: 50px;
+}
+.white {
+  background-color: white;
+  border: 1px solid yellow;
+}
+.black {
+  background-color: black;
+  border: 1px solid yellow;
+}
